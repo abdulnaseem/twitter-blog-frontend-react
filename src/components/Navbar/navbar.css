@@ -1,0 +1,17 @@
+.logo-mobile {
+    width: 5%;
+    margin-left: 20px;
+}
+
+.posts{
+    margin-right: 30px;
+}
+
+.post {
+    margin-right: 30px;
+    white-space: nowrap;
+}
+
+.logout {
+    margin-right: 10em;
+}

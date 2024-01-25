@@ -1,0 +1,12 @@
+.dropdown-item {
+    cursor: pointer;
+}
+
+.post-item {
+    margin-top: 10px;
+}
+
+.dropdown-item.delete:hover {
+    background-color: #ff0000;
+    color: white;
+}

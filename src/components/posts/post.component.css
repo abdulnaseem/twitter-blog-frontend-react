@@ -1,0 +1,84 @@
+.container.tweets {
+    padding: 10px;
+    border: 0.01em gray solid;
+    margin-top: 10px;
+}
+
+.liked:hover,
+.unliked:hover {
+    cursor: pointer;
+}
+
+.reply {
+    margin-left: 10px;
+}
+.reply:hover {
+    cursor: pointer;
+}
+
+h5 {
+    display: inline;
+}
+.date {
+    display: inline;
+}
+.dropdown {
+    display: inline;
+    float: right;
+    position:relative;
+    right:0;
+    
+}
+.content {
+    margin-top: 12px;
+}
+.btn.btn-danger {
+    right: 0;
+}
+
+.tweet-btn {
+    background-color: #1DA1F2;
+    border: none;
+    margin-bottom: 5px!important;
+}
+
+.container .mb-5 .form {
+    margin-bottom: 5px;
+}
+
+.container-fluid {
+    margin-top: -20px
+}
+
+.threedots, .close {
+    color: black;
+}
+.reply {
+    color: black;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.post-item {
+    margin-top: 10px;
+}
+
+.dropdown-item.delete:hover {
+    background-color: #ff0000;
+    color: white;
+}
+
+.vl {
+    border-left: 3px solid #1DA1F2;
+    height: 15px;
+  }
+.update-tweet {
+    margin-top: -14px;
+}
+
+.thread {
+    text-decoration: none;
+    color: black;
+}
